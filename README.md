@@ -1,4 +1,4 @@
-#🌈 Meal Kid - 아이의 상상력을 키워주는 생성형 AI 동화책 서비스 (KT AIVLESCHOOL BIGPROJECT)
+# 🌈 Meal Kid - 아이의 상상력을 키워주는 생성형 AI 동화책 서비스 (KT AIVLESCHOOL BIGPROJECT)
 Project URL -> https://mealkid.kro.kr
 
 ## 설명
