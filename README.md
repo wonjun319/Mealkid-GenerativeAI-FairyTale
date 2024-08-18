@@ -6,4 +6,4 @@
 ![AI 22조 1p 설명서](https://github.com/user-attachments/assets/268d0438-6af6-47d4-825e-56fa463d5fa5)
 
 ## 기타
-![image](https://github.com/user-attachments/assets/7a06bad0-e378-479a-a5ce-b16b43c31c4b)
+![Uploading 빅프 후기.jpeg…]()
