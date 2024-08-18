@@ -7,5 +7,5 @@
 ![image](https://github.com/user-attachments/assets/07048dc8-2c36-44ce-bc8b-19ca4f3709f7)
 
 
-## 기타
+## 리뷰
 ![빅프 후기](https://github.com/user-attachments/assets/a22f8a4b-5dba-4d9b-80cb-bd77c7da5c43)
