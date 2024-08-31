@@ -3,7 +3,7 @@
 
 ## 프로젝트 인원
 8인 팀
-- FE : <span style='color: red;'>[@wonjun319](https://github.com/wonjun319)</span>, [@YuBin-OuO](https://github.com/YuBin-OuO)
+- FE : <h1>[@wonjun319](https://github.com/wonjun319)</h1>, [@YuBin-OuO](https://github.com/YuBin-OuO)
 - BE : [@sichu1547](https://github.com/sichu1547), [@dodochoi](https://github.com/dodochoi), [@codeanfanger](https://github.com/codeanfanger)
 - AI : [@Gaeun012](https://github.com/Gaeun012), [@mandarinnn2](https://github.com/mandarinnn2), [@2hyeb](https://github.com/2hyeb)
 - infra : [@codeanfanger](https://github.com/codeanfanger)
