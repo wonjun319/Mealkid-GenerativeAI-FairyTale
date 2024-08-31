@@ -3,10 +3,10 @@
 
 ## 프로젝트 인원
 8인 팀
-- FE : @wonjun319, @YuBin-OuO
-- BE : @sichu1547, @dodochoi, @codeanfanger
-- AI : @Gaeun012, @mandarinnn2, @2hyeb
-- infra : @codeanfanger
+- FE : [@wonjun319], [@YuBin-OuO]
+- BE : [@sichu1547], [@dodochoi], [@codeanfanger]
+- AI : [@Gaeun012], [@mandarinnn2], [@2hyeb]
+- infra : [@codeanfanger]
 
 
 ## 사용 언어 및 기술
