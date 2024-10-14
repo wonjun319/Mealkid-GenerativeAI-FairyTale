@@ -21,13 +21,6 @@
 - BE : [@sichu1547](https://github.com/sichu1547), [@dodochoi](https://github.com/dodochoi), [@codeanfanger](https://github.com/codeanfanger)
 - AI : [@Gaeun012](https://github.com/Gaeun012), [@mandarinnn2](https://github.com/mandarinnn2), [@2hyeb](https://github.com/2hyeb)
 - infra : [@codeanfanger](https://github.com/codeanfanger)
-
-## 나의 역할
-- 서비스대상에 적합한 UI/UX 디자인 및 구현
-- 동화의 별점기능 구현
-- 동화데이터 전처리
-- 로딩상황시 프리로더 구현
-- 시큐어 코
   
 ## 사용 언어 및 기술
 - 프론트엔드  
