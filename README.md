@@ -14,13 +14,6 @@
 - AI모델의 성능 향상을 위한 동화데이터 전처리
 - 동화 컨텐츠를 로딩중임을 알리는 프리로더 구현
 - 동화를 읽고난 후 감상을 남기는 독후감 기능 구현
-
-## 프로젝트 인원
-8인 팀
-- FE : [@wonjun319](https://github.com/wonjun319), [@YuBin-OuO](https://github.com/YuBin-OuO)
-- BE : [@sichu1547](https://github.com/sichu1547), [@dodochoi](https://github.com/dodochoi), [@codeanfanger](https://github.com/codeanfanger)
-- AI : [@Gaeun012](https://github.com/Gaeun012), [@mandarinnn2](https://github.com/mandarinnn2), [@2hyeb](https://github.com/2hyeb)
-- infra : [@codeanfanger](https://github.com/codeanfanger)
   
 ## 사용 언어 및 기술
 - 프론트엔드  
